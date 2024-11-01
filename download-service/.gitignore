@@ -1,0 +1,43 @@
+# Auth Service .gitignore
+echo "node_modules/
+.env
+*.log
+docker-compose.yml
+.Dockerfile
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db" > auth-service/.gitignore
+
+# Upload Service .gitignore
+echo "node_modules/
+.env
+*.log
+docker-compose.yml
+.Dockerfile
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db" > upload-service/.gitignore
+
+# Metadata Service .gitignore
+echo "node_modules/
+.env
+*.log
+docker-compose.yml
+.Dockerfile
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db" > metadata-service/.gitignore
+
+# Queue Service .gitignore
+echo "node_modules/
+.env
+*.log
+docker-compose.yml
+.Dockerfile
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db" > queue-service/.gitignore
