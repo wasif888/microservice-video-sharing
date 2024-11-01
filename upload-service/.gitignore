@@ -1,0 +1,18 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variable file
+.env
+
+# Ignore log files
+*.log
+
+# Ignore Docker-related files if not needed in repository
+docker-compose.yml
+.Dockerfile
+
+# Ignore OS or IDE specific files
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
