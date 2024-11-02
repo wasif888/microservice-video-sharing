@@ -7,11 +7,7 @@ Welcome to the **Microservice Video Sharing App**! This project is a cloud-based
 ## Table of Contents
 - [Features](#features)
 - [Project Architecture](#project-architecture)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
+
 
 ---
 
